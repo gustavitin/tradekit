@@ -1,86 +1,90 @@
-# data analysis libraries
-numpy
-scipy
+# Data analysis libraries
+# numpy
+# scipy
 pandas
 pandas-datareader
 
-# technical analysis, indicator libraries
-ta
+# Technical analysis, indicator libraries
+# ta
 ta-lib
-bta-lib
-pandas-ta
+# bta-lib
+# pandas-ta
 tulipy
 
-# database connection, ORM
+# Database connection, ORM
 psycopg2
 sqlalchemy
 
-# broker API libraries
+# Broker API libraries
 alpaca-trade-api
-python-binance
+# python-binance
 tda-api
-ib_insync
-robin-stocks
+# ib_insync
+# robin-stocks
 
-# data providers
-intrinio-sdk
+# Data providers
+# intrinio-sdk
 polygon-api-client
-iexfinance
+# iexfinance
 yfinance
-quandl
+# quandl
 alpha-vantage
 sec-edgar-downloader
 
-# visualization
-matplotlib
-plotly
-dash
-mplfinance
-jupyterlab
-pillow
+# Visualization
+# matplotlib
+# plotly
+# dash
+# mplfinance
+# jupyterlab
+# pillow
 
-# backtesting
-backtrader
-pyalgotrade
-bt
+# Backtesting
+# backtrader
+# pyalgotrade
+# bt
 
-# portfolio, performance analysis
-pyfolio
-finquant
+# Portfolio, performance analysis
+# pyfolio
+# finquant
 
-# web frameworks and extensions
+# Web frameworks and extensions
 fastapi
-flask
-flask-cors
-flask-login
-flask-sqlalchemy
-itsdangerous
-aiofiles
-chalice
+# httpx
+# flask
+# flask-cors
+# flask-login
+# flask-sqlalchemy
+# itsdangerous
+# aiofiles
+# chalice
 
-# servers, task queue
+# Servers, task queue
 uvicorn
-gunicorn
-celery
+# gunicorn
+# celery
 
-# networking
+# Networking
 requests
-boto3
-urllib3
+# boto3
+# urllib3
 websocket-client
 websockets
 
-# other data stores, formats
-redis
-h5py
+# Other data stores, formats
+# redis
+# h5py
 
-# utilities
-beautifulsoup4
-pendulum
-click
-passlib
+# Utilities
+python-dateutil
+holidays
+configparser
+# beautifulsoup4
+# pendulum
+# click
+# passlib
 
-###### machine learning
+# Machine learning
 # tensorflow
 # scikit-learn
 # keras
